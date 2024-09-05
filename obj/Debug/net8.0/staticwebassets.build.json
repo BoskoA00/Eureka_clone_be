@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "FALugdIN/ro2Nkv9V9sze/ZgYAHzio9RA1tEX1Cnm1o=",
+  "Source": "epp_be",
+  "BasePath": "_content/epp_be",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "epp_be\\wwwroot",
+      "Source": "epp_be",
+      "ContentRoot": "C:\\Users\\Laptop\\Desktop\\EPP\\epp_be\\wwwroot\\",
+      "BasePath": "_content/epp_be",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Laptop\\Desktop\\EPP\\epp_be\\wwwroot\\videos\\1014\\1.mp4",
+      "SourceId": "epp_be",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Desktop\\EPP\\epp_be\\wwwroot\\",
+      "BasePath": "_content/epp_be",
+      "RelativePath": "videos/1014/1.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\1014\\1.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\Laptop\\Desktop\\EPP\\epp_be\\wwwroot\\videos\\1014\\2.mp4",
+      "SourceId": "epp_be",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Desktop\\EPP\\epp_be\\wwwroot\\",
+      "BasePath": "_content/epp_be",
+      "RelativePath": "videos/1014/2.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\1014\\2.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\Laptop\\Desktop\\EPP\\epp_be\\wwwroot\\videos\\1014\\3.mp4",
+      "SourceId": "epp_be",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Laptop\\Desktop\\EPP\\epp_be\\wwwroot\\",
+      "BasePath": "_content/epp_be",
+      "RelativePath": "videos/1014/3.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\videos\\1014\\3.mp4"
+    }
+  ]
+}

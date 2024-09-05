@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\epp_be.props" />
+</Project>
